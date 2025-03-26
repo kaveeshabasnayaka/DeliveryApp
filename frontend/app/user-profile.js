@@ -1,3 +1,4 @@
+//user-profile.js
 import React from 'react';
 import { 
   View, 
